@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.6960fbf9.css",
-    "main.js": "./static/js/main.72b3672e.js",
+    "main.css": "./static/css/main.9652a7c3.css",
+    "main.js": "./static/js/main.0481b858.js",
     "static/js/645.a98ba8ca.chunk.js": "./static/js/645.a98ba8ca.chunk.js",
     "static/js/800.94bba2db.chunk.js": "./static/js/800.94bba2db.chunk.js",
     "static/js/514.96c2d763.chunk.js": "./static/js/514.96c2d763.chunk.js",
@@ -375,12 +375,12 @@
     "Workers/chunk-UQA7A4FU.js": "./Workers/chunk-UQA7A4FU.js",
     "Widgets/FullscreenButton/FullscreenButton.css": "./Widgets/FullscreenButton/FullscreenButton.css",
     "Widgets/VRButton/VRButton.css": "./Widgets/VRButton/VRButton.css",
-    "main.6960fbf9.css.map": "./static/css/main.6960fbf9.css.map",
-    "main.72b3672e.js.map": "./static/js/main.72b3672e.js.map",
+    "main.9652a7c3.css.map": "./static/css/main.9652a7c3.css.map",
+    "main.0481b858.js.map": "./static/js/main.0481b858.js.map",
     "529.fb33b66a.chunk.js.map": "./static/js/529.fb33b66a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6960fbf9.css",
-    "static/js/main.72b3672e.js"
+    "static/css/main.9652a7c3.css",
+    "static/js/main.0481b858.js"
   ]
 }
