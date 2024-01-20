@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.9652a7c3.css",
-    "main.js": "./static/js/main.0481b858.js",
+    "main.css": "./static/css/main.25abee46.css",
+    "main.js": "./static/js/main.f33093a8.js",
     "static/js/645.a98ba8ca.chunk.js": "./static/js/645.a98ba8ca.chunk.js",
     "static/js/800.94bba2db.chunk.js": "./static/js/800.94bba2db.chunk.js",
     "static/js/514.96c2d763.chunk.js": "./static/js/514.96c2d763.chunk.js",
@@ -345,11 +345,11 @@
     "Assets/Textures/NaturalEarthII/tilemapresource.xml": "./Assets/Textures/NaturalEarthII/tilemapresource.xml",
     "Workers/createEllipseOutlineGeometry.js": "./Workers/createEllipseOutlineGeometry.js",
     "Widgets/Images/info-loading.gif": "./Widgets/Images/info-loading.gif",
+    "index.html": "./index.html",
     "Workers/createCylinderGeometry.js": "./Workers/createCylinderGeometry.js",
     "Workers/createEllipsoidGeometry.js": "./Workers/createEllipsoidGeometry.js",
     "Workers/createEllipsoidOutlineGeometry.js": "./Workers/createEllipsoidOutlineGeometry.js",
     "Assets/Textures/maki/square-stroked.png": "./Assets/Textures/maki/square-stroked.png",
-    "index.html": "./index.html",
     "Workers/createFrustumGeometry.js": "./Workers/createFrustumGeometry.js",
     "Workers/createBoxGeometry.js": "./Workers/createBoxGeometry.js",
     "Workers/chunk-NVBQCQFC.js": "./Workers/chunk-NVBQCQFC.js",
@@ -375,12 +375,12 @@
     "Workers/chunk-UQA7A4FU.js": "./Workers/chunk-UQA7A4FU.js",
     "Widgets/FullscreenButton/FullscreenButton.css": "./Widgets/FullscreenButton/FullscreenButton.css",
     "Widgets/VRButton/VRButton.css": "./Widgets/VRButton/VRButton.css",
-    "main.9652a7c3.css.map": "./static/css/main.9652a7c3.css.map",
-    "main.0481b858.js.map": "./static/js/main.0481b858.js.map",
+    "main.25abee46.css.map": "./static/css/main.25abee46.css.map",
+    "main.f33093a8.js.map": "./static/js/main.f33093a8.js.map",
     "529.fb33b66a.chunk.js.map": "./static/js/529.fb33b66a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9652a7c3.css",
-    "static/js/main.0481b858.js"
+    "static/css/main.25abee46.css",
+    "static/js/main.f33093a8.js"
   ]
 }
